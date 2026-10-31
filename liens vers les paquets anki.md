@@ -15,4 +15,4 @@ Choisis ceux qui correspondent à ce que nous avons déjà étudié !
 
 M. Bourreau.
 
-**Chapitre 1**  [Logique](https://kdrive.infomaniak.com/app/share/425826/cfe6e277-c3e9-492a-a258-576b75d2b49dhttps://kdrive.infomaniak.com/app/share/425826/cfe6e277-c3e9-492a-a258-576b75d2b49d) 
+**Chapitre 1** [Logique](https://kdrive.infomaniak.com/app/share/425826/cfe6e277-c3e9-492a-a258-576b75d2b49d) 
